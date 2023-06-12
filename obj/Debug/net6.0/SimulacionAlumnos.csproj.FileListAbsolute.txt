@@ -1,0 +1,15 @@
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.AssemblyInfo.cs
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\SimulacionAlumnos.exe
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\SimulacionAlumnos.deps.json
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\SimulacionAlumnos.runtimeconfig.json
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\SimulacionAlumnos.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\ref\SimulacionAlumnos.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\bin\Debug\net6.0\SimulacionAlumnos.pdb
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\ref\SimulacionAlumnos.dll
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.pdb
+C:\Users\Michael\Documents\2-2023\Simulacion Digital\SimulacionAlumnos\obj\Debug\net6.0\SimulacionAlumnos.genruntimeconfig.cache
